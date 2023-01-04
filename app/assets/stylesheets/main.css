@@ -1,0 +1,17 @@
+.post {
+    margin: 25px;
+    background-color: #efefef;
+    padding: 15px 75px 15px 15px;
+    border-radius: 20px;
+}
+a {
+    text-decoration: none;
+    background-color: #d0d0d0;
+    padding: 5px;
+    color: black;
+    border-radius: 5px;
+}
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+}
